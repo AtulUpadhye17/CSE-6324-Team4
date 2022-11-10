@@ -1,0 +1,7 @@
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.16;
+
+address constant SIGNAL_TOWER_A = 0x607B5e673D3ea42A0F85aDD6f529196500FC9E04;
+address constant SIGNAL_TOWER_B = 0x6b71361009c55925B8FBABae07F711Bc61D6750E;
+address constant SIGNAL_TOWER_C = 0x6fE504a863C31ecFf4397223cDeD1007fFd4FA86;
+
