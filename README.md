@@ -12,6 +12,18 @@ Team 4 :
 
 Topic : Adding new Detectors to Slither (Static Analysis Framework).
 
-Steps :
+Steps to run the tool:
 
-1. 
+NOTE : Instructions for Linux Based System
+
+Step 1 : Installing tool using pip command using the command-line :
+
+  $ sudo pip3 install slither-analyzer
+
+Step 2 : Using the tool :
+
+To analyze contracts :
+
+  $ slither <solidity_contract_file>.sol
+
+
