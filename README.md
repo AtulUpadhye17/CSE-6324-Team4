@@ -10,3 +10,8 @@ Team 4 :
   Vigneshwar Selvaraj
   
 
+Topic : Adding new Detectors to Slither (Static Analysis Framework).
+
+Steps :
+
+1. 
